@@ -21,7 +21,7 @@ Instead of using the original features, financial institutions or data providers
 I have provided The Jupyter Notebook:[Credit Card Craud Detection Analysis.ipynb] contains the Python code for data preprocessing, data analysis, and visualization.
 
 ## Conclusion
-The analysis demonstrates an effective analysis for detecting credit card fraud.
+"The analysis demonstrates an effective method for detecting credit card fraud, and our findings indicate that the dataset is highly imbalanced, with fraudulent transactions amounting to a higher value than non-fraudulent transactions."
 
 ## Future Work
 - Investigate advanced anomaly detection techniques.
