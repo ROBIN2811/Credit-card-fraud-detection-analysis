@@ -1,10 +1,10 @@
 # Credit-card-fraud-detection-analysis
 This repository contains a Jupyter Notebook and a dataset related to the analysis of credit card fraud detection. The Jupyter Notebook includes code written in Python using libraries such as Pandas, Matplotlib, and Seaborn to preprocess the data, analyze it, and then visualize it detecting fraudulent transactions.
 ## Overview
-This project aims to detect fraudulent transactions in credit card data using Python (Pandas, Matplotlib, and Seaborn). The Jupyter Notebook contains code for data preprocessing, data analysis, and visualization.
+The goal of this project is to develop an effective credit card fraud detection analysis. By analyzing historical credit card transaction data, we aim to identify patterns and anomalies associated with fraudulent activities.
 
 ## Dataset
-The dataset used for this analysis contains credit card transactions with features such as transaction amount, time (in seconds), and anonymized variables.
+The dataset used in this project consists of historical credit card transaction data, including features such as transaction amount, timestamp, merchant information, and other relevant attributes. The dataset contains a mix of fraudulent and non-fraudulent transactions.
 
 I have provided the dataset that I used for analysis [creditcard.xlsx]
 
